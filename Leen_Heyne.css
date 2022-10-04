@@ -1,0 +1,145 @@
+.menubar{
+    position: fixed;
+    text-decoration: gray;
+}
+.decor{
+    text-decoration: none;
+    color: gray;
+}
+.menu1{
+    float: left;
+    word-spacing: 50px;
+    margin-top: 3%;
+    position: relative;
+    left: 120%;
+}
+.Main{
+    float: left;
+    margin-top: 3%;
+    position: relative;
+    left: 170%;
+    font-size: 24px;
+}
+.menu2{
+    float: right;
+    word-spacing: 50px;
+    margin-top: 3%;
+    position: relative;
+    left: 220%;
+}
+
+.pic1{
+    margin-top: 300px;
+    background-image: url("https://leenheyne.nl/wp-content/uploads/2020/11/LEEN-2523-Edit-1-scaled.jpg");
+    background-size: cover;
+    height: 1080px;
+    width: 720px;
+    margin-left: 32%;
+    float: left;
+}
+.text1{
+    color: black;
+    margin-left: 34%;
+    text-align: center;
+    float: left;
+    margin-top: 10%;
+    font-size: 24px;
+}
+.pic2
+{
+    background: url("https://leenheyne.nl/wp-content/uploads/2020/11/twist_charcoal.gif");
+    background-size: contain;
+    height: 420px;
+    width: 420px;
+    margin-left: 40%;
+    float: left;
+    margin-top: 10%;
+}
+.pic3{
+    background-image: url("https://leenheyne.nl/wp-content/uploads/2020/11/LEEN-2129-Edit-1-scaled.jpg");    
+    background-size: cover;
+    height: 1080px;
+    width: 720px;
+    margin-left: 32%;
+    float: left;
+    margin-top: 10%;
+}
+.pic4{
+    background-image: url("https://leenheyne.nl/wp-content/uploads/2020/11/LEEN-3101-Edit-1-scaled.jpg");
+    background-size: cover;
+    height: 1080px;
+    width: 720px;
+    margin-left: 32%;
+    float: left;
+    margin-top: 10%;
+}
+.text2{
+    color: black;
+    margin-left: 34%;
+    text-align: center;
+    float: left;
+    margin-top: 10%;
+    font-size: 24px;    
+}
+.pic5{
+    background-image: url("https://leenheyne.nl/wp-content/uploads/2020/11/LEEN-2642-Edit-1-scaled.jpg");
+    background-size: cover;
+    height: 1080px;
+    width: 720px;
+    margin-left: 32%;
+    float: left;
+    margin-top: 10%;
+}
+.pic6{
+    background-image: url("https://leenheyne.nl/wp-content/uploads/2020/11/LEEN-2051-Edit-1-scaled.jpg");
+    background-size: cover;
+    height: 1080px;
+    width: 720px;
+    margin-left: 32%;
+    float: left;
+    margin-top: 10%;
+}
+.pic7{
+    background-image: url("https://leenheyne.nl/wp-content/uploads/2020/11/LEEN-1410-Edit-2-scaled.jpg");
+    background-size: cover;
+    height: 720px;
+    width: 1080px;
+    margin-left: 22%;
+    float: left;
+    margin-top: 10%;
+}
+.pic8{
+    background-image: url("https://leenheyne.nl/wp-content/uploads/2020/11/LEEN-1079-Edit-2-1-scaled.jpg");
+    background-size: cover;
+    height: 1080px;
+    width: 720px;
+    margin-left: 32%;
+    float: left;
+    margin-top: 10%;
+}
+.footer{
+    color: black;
+}
+.leen{
+    margin-left: 24%;
+    float: left;
+    margin-top: 10%;
+    font-size: 16px;  
+}
+.Stockist{
+    margin-left: 19%;
+    float: left;
+    margin-top: 10%;
+    font-size: 16px; 
+}
+.insta{
+    margin-left: 19%;
+    float: left;
+    margin-top: 10%;
+    font-size: 16px; 
+}
+.spacing{
+    height: 30px;
+    background-color: blue;
+    float: left;
+}
